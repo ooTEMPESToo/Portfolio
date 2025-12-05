@@ -1,0 +1,34 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "slug": "portfolio-analyzer",
+      "name": "Portfolio Analyzer",
+      "description": "A web application that visualizes stock portfolio performance with interactive charts and data analysis. Built with React, D3.js, and a Node.js backend.",
+      "longDescription": "The Portfolio Analyzer is a comprehensive tool designed for investors to track and analyze their stock portfolios. It features real-time data fetching from financial APIs, interactive charts to visualize historical performance and asset allocation, and a news feed related to the user's holdings. The frontend is built with React for a dynamic user experience, while D3.js is used for creating custom, interactive data visualizations. The backend is a lightweight Node.js server using Express, which handles API requests and user authentication.",
+      "tags": ["React", "D3.js", "Node.js", "Data Visualization"],
+      "imageUrl": "placeholder-1",
+      "liveUrl": "#"
+    },
+    {
+      "id": "2",
+      "slug": "e-commerce-platform",
+      "name": "E-commerce Platform",
+      "description": "A full-featured e-commerce platform with Next.js. Includes product browsing, a shopping cart, and a checkout process powered by Stripe.",
+      "longDescription": "This project is a modern, server-side rendered e-commerce platform built with Next.js. It offers a seamless shopping experience with features like product filtering and search, a persistent shopping cart, and secure payments through Stripe integration. The platform is designed for performance and SEO, leveraging Next.js features like static site generation for product pages and server-side rendering for dynamic content. User accounts, order history, and product management are handled through a custom-built API.",
+      "tags": ["Next.js", "React", "Stripe", "E-commerce"],
+      "imageUrl": "placeholder-2",
+      "liveUrl": "#"
+    },
+    {
+      "id": "3",
+      "slug": "task-manager-app",
+      "name": "Task Manager App",
+      "description": "A simple and elegant task management application designed to help users organize their daily tasks. Built with HTML, CSS, and vanilla JavaScript.",
+      "longDescription": "The Task Manager App is a testament to the power of core web technologies. Built entirely with HTML, CSS, and vanilla JavaScript, it provides a clean, intuitive interface for managing tasks. Features include adding, editing, and deleting tasks, marking tasks as complete, and filtering tasks by status. The application uses local storage to persist data, allowing users to access their tasks across browser sessions. The design is fully responsive, ensuring a great experience on both desktop and mobile devices. This project serves as a showcase of strong foundational web development skills.",
+      "tags": ["HTML", "CSS", "JavaScript", "Frontend"],
+      "imageUrl": "placeholder-3",
+      "iframeUrl": "/projects-build/task-manager/index.html"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "placeholderImages": [
+    {
+      "id": "me",
+      "description": "A professional photo of the portfolio owner.",
+      "imageUrl": "/images/Designer.png",
+      "imageHint": "portrait person"
+    },
+    {
+      "id": "placeholder-1",
+      "description": "Screenshot of the Portfolio Analyzer project.",
+      "imageUrl": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxkYXRhJTIwZGFzaGJvYXJkfGVufDB8fHx8MTc2MzAzMDE0OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "data dashboard"
+    },
+    {
+      "id": "placeholder-2",
+      "description": "Screenshot of the E-commerce Platform project.",
+      "imageUrl": "https://images.unsplash.com/photo-1682778416115-80e075aa1469?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx3ZWJzaXRlJTIwc2hvcHBpbmd8ZW58MHx8fHwxNzYzMDYxNDM4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "website shopping"
+    },
+    {
+      "id": "placeholder-3",
+      "description": "Screenshot of the Task Manager App.",
+      "imageUrl": "https://images.unsplash.com/photo-1605108222700-0d605d9ebafe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhcHAlMjBpbnRlcmZhY2V8ZW58MHx8fHwxNzYzMDE4Nzc1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "app interface"
+    }
+  ]
+}
